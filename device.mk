@@ -136,6 +136,7 @@ PRODUCT_PACKAGES += \
     libmegface
 
 PRODUCT_PACKAGES += \
+    libcamera_provider_shim \
     libpiex_shim \
     camxoverridesettings.txt
 
